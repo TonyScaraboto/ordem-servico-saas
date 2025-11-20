@@ -1,0 +1,14 @@
+ordem_servico_app/
+├── app.py
+├── routes/
+│   ├── auth.py
+│   ├── ordens.py
+├── models/
+│   └── database.py
+├── templates/
+│   ├── login.html
+│   ├── dashboard.html
+│   ├── ordens.html
+│   └── nova_ordem.html
+├── static/
+│   └── bootstrap.min.css

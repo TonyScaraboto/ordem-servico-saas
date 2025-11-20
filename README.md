@@ -1,4 +1,3 @@
-# ordem-servico-saas
 # Sistema SaaS de Ordens de Serviço
 
 Este é um sistema SaaS (Software como Serviço) para gestão de ordens de serviço, multi-tenant, com controle de período gratuito, cobrança automática via Pix (PagSeguro), painel administrativo e interface moderna.
